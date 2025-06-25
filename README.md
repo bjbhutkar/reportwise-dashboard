@@ -1,1 +1,2 @@
-# reportwise-dashboard
+# ReportWise Agent Dashboard
+Production-ready React frontend.
